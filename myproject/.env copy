@@ -1,0 +1,11 @@
+SECRET_KEY=django-insecure-7*hu@ksdn#ke+wgz#1w6(5w6^(e*ko0y#fcr$de!hi$*+-*sh+
+
+DEBUG=TRUE
+ALLOWED_HOSTS=.localhost, .my-kelompok8.my.id, 103.150.196.162
+
+DB_ENGINE=django.db.backends.mysql
+DB_NAME=myproject
+DB_USER=root
+DB_PASSWORD=
+DB_HOST=127.0.0.1
+DB_PORT=3306
